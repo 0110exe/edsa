@@ -1,4 +1,4 @@
--- insert troll face, memcorruptv2
+-- insert troll face, bars.exe
 local library = { 
 	flags = { }, 
 	items = { } 
